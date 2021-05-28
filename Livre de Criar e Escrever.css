@@ -51,7 +51,7 @@ nav img{
                 content: '';
                 width: 0%;
                 height: 2px;
-                background: white;
+                background: #cc8a3d;
                 display: block;
                 margin: auto;
                 transition: 0.5s;
@@ -93,6 +93,13 @@ nav img{
 }
 
 .hero-btn:hover{
-        background: gray;
+        background: #cc8a3d;
         transition: 1s;
+}
+
+@media(max-width: 700px){
+        .text-box h1{
+                font-size: 20px;
+        }
+
 }
