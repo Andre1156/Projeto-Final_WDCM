@@ -23,6 +23,7 @@ nav{
 
 nav img{
          width: 150px;
+         border-radius: 100px;
 
 }
 
@@ -101,5 +102,13 @@ nav img{
         .text-box h1{
                 font-size: 20px;
         }
+
+}
+
+.Contacto{
+        width: 80%;
+        margin:auto;
+        text-align: center;
+        padding-top:  30px; 
 
 }
